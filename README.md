@@ -3,7 +3,7 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2021a%2B-blue.svg)](https://www.mathworks.com/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-This repository contains the official MATLAB simulation source code for the paper: **"Resilient Multi-Agent State Estimation for Stochastic Urban Networks: An Operations Research Perspective"** (submitted to *IEEE Access*).
+This repository contains the official MATLAB simulation source code for the paper: **"Resilient Multi-Agent State Estimation for Smart City Traffic: A Systems Engineering Approach to Emission Mitigation"** (submitted to *Applied Sciences*).
 
 ## Overview
 
@@ -15,7 +15,7 @@ This simulation validates the theoretical Input-to-State Stability (ISS) bounds,
 
 ## Features of the Simulation
 
-1.  **Synthetic Urban Topology Generation:** Automatically constructs a realistic, topologically heterogeneous 100% planar ring-radial network (15 internal junctions, 10 boundary nodes, 55 directed edges).
+1.  **Synthetic Urban Topology Generation:** Automatically constructs a realistic, topologically heterogeneous ring-radial network (15 internal junctions, 10 boundary nodes, 55 directed edges).
 2.  **Strict Operations Research Framework:** Simulates traffic evolution as bounded random walks under persistent stochastic measurement noise, without relying on exact state-transition matrices.
 3.  **Distributed Projected Gradient Descent:** Implements the inner-loop consensus mechanism where agents reach global observability strictly via local hop-by-hop communications.
 4.  **Autonomous Fault Isolation:** Injects a catastrophic structural sensor fault ($f = 80.0$) and demonstrates the real-time, autonomous constraint-dropping logic ($\sigma_i \to 0$) operating with a proven zero false-alarm rate.
