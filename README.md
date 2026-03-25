@@ -26,8 +26,8 @@ This simulation validates the theoretical Input-to-State Stability (ISS) bounds,
 * **Toolboxes:** No specialized toolboxes are strictly required, though MATLAB's built-in Graph Theory functions (`digraph`, `shortestpath`, `plot`) are utilized for topology generation and visualization.
 
 **To run the simulation:**
-1. Clone this repository or download the `H-MASE.m` file.
+1. Clone this repository or download the `HMASE.m` file.
 2. Open MATLAB and navigate to the folder containing the file.
 3. Run the script from the command window:
    ```matlab
-   run H-MASE.m
+   run HMASE.m
