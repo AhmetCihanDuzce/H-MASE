@@ -3,7 +3,7 @@
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2021a%2B-blue.svg)](https://www.mathworks.com/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-This repository contains the official MATLAB simulation source code for the paper: **"Resilient Multi-Agent State Estimation for Smart City Traffic: A Systems Engineering Approach to Emission Mitigation"** (submitted to *Applied Sciences*).
+This repository contains the official MATLAB simulation source code for the paper: **"Resilient Multi-Agent State Estimation for Smart City Traffic: A Systems Engineering Approach to Emission Mitigation"**.
 
 ## Overview
 
@@ -22,7 +22,7 @@ This simulation validates the theoretical Input-to-State Stability (ISS) bounds,
 
 ## ⚙️ Requirements & Installation
 
-* **Software:** MATLAB (Tested on R2021a and newer versions).
+* **Software:** MATLAB.
 * **Toolboxes:** No specialized toolboxes are strictly required, though MATLAB's built-in Graph Theory functions (`digraph`, `shortestpath`, `plot`) are utilized for topology generation and visualization.
 
 **To run the simulation:**
