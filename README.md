@@ -1,6 +1,5 @@
 # H-MASE: Hybrid Multi-Agent State Estimation for Stochastic Urban Networks
 
-[![MATLAB](https://img.shields.io/badge/MATLAB-R2021a%2B-blue.svg)](https://www.mathworks.com/)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 This repository contains the official MATLAB simulation source code for the paper: **"Resilient Multi-Agent State Estimation for Smart City Traffic: A Systems Engineering Approach to Emission Mitigation"**.
